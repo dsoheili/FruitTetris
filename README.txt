@@ -1,7 +1,3 @@
-Daniel Soheili
-301163609
-dsoheili@sfu.ca
-
 To run the program, please go to the flder where you have extracted the files through the terminal.
 Type in "make" ("make clean" if it is not the first time you are running it).
 Type in "./fruittetris"
